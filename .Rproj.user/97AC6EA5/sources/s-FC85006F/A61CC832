@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528205597891.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A61CC832",
+    "lastKnownWriteTime" : 8246181275237351430,
+    "last_content_update" : 1528205597891,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E5466B1D",
+        "caption" : "tree_genus",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=tree_genus&cache_key=E5466B1D",
+        "displayedObservations" : 74,
+        "environment" : "",
+        "object" : "tree_genus",
+        "preview" : 0,
+        "totalObservations" : 74,
+        "variables" : 2
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
