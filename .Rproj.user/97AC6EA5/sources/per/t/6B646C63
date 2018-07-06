@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528048586311.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "663413051",
+    "id" : "6B646C63",
+    "lastKnownWriteTime" : 1530814244,
+    "last_content_update" : 1530814244265,
+    "path" : "~/Documents/GitHub/Trees/tree_queries.R",
+    "project_path" : "tree_queries.R",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "6",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530489159670.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "95C706FF",
+    "lastKnownWriteTime" : 4516333312,
+    "last_content_update" : 1530489159670,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F00EE522",
+        "caption" : "tree_tbox",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=tree_tbox&cache_key=F00EE522",
+        "displayedObservations" : "9",
+        "environment" : "",
+        "object" : "tree_tbox",
+        "preview" : "0",
+        "totalObservations" : "9",
+        "variables" : "2"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
