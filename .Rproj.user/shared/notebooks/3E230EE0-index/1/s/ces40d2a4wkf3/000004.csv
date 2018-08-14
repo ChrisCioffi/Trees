@@ -1,0 +1,7 @@
+"0","age_test <- burgers$age[5]  ==  11
+age_test
+"
+"1","[1]"
+"1"," TRUE"
+"1","
+"
