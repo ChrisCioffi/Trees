@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535570772248.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EFE2A8FA",
+    "lastKnownWriteTime" : 4323777360,
+    "last_content_update" : 1535570772248,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B7C96A15",
+        "caption" : "tree_health_together",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=tree_health_together&cache_key=B7C96A15",
+        "displayedObservations" : 12,
+        "environment" : "",
+        "object" : "tree_health_together",
+        "preview" : 0,
+        "totalObservations" : 12,
+        "variables" : 6
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

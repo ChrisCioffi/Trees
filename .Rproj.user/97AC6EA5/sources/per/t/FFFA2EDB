@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535570743671.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FFFA2EDB",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1535570743671,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4FF644CA",
+        "caption" : "Proposed_trees",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Proposed_trees&cache_key=4FF644CA",
+        "displayedObservations" : 5672,
+        "environment" : "",
+        "object" : "Proposed_trees",
+        "preview" : 0,
+        "totalObservations" : 5672,
+        "variables" : 38
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

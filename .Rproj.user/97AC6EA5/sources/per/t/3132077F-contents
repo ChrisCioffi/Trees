@@ -75,6 +75,13 @@ subset_trees <- trees %>%
 
 write_csv(subset_trees, "trees_since_2008.csv")
 
+#now we can look at where the trees are proposed in the future
+Proposed_trees <- trees %>%
+  filter(TBOX_STAT == "Proposed")
+
+
+write_csv(Proposed_trees, "Proposed_trees.csv")
+
 #and we can see where the trees have been planted by ward
 o2008_subset_trees <- trees  %>%
   filter(TBOX_STAT == "Plant" & year_planted > 2008)  %>%
